@@ -115,6 +115,16 @@
       "item_type": "光锥",
       "rank_type": "3"
     },
+    "20023": {
+      "name": "嗤笑",
+      "item_type": "光锥",
+      "rank_type": "3"
+    },
+    "20024": {
+      "name": "残泪",
+      "item_type": "光锥",
+      "rank_type": "3"
+    },
     "21000": {
       "name": "一场术后对话",
       "item_type": "光锥",
@@ -420,6 +430,16 @@
       "item_type": "光锥",
       "rank_type": "4"
     },
+    "21064": {
+      "name": "菇菇嘎嘎历险记",
+      "item_type": "光锥",
+      "rank_type": "4"
+    },
+    "21065": {
+      "name": "今日好手气",
+      "item_type": "光锥",
+      "rank_type": "4"
+    },
     "22000": {
       "name": "新手任务开始前",
       "item_type": "光锥",
@@ -717,6 +737,16 @@
     },
     "23052": {
       "name": "爱如此刻永恒",
+      "item_type": "光锥",
+      "rank_type": "5"
+    },
+    "23053": {
+      "name": "花花世界迷人眼",
+      "item_type": "光锥",
+      "rank_type": "5"
+    },
+    "23054": {
+      "name": "当她决定看见",
       "item_type": "光锥",
       "rank_type": "5"
     },
@@ -1130,6 +1160,16 @@
       "item_type": "角色",
       "rank_type": "5"
     },
+    "1501": {
+      "name": "火花",
+      "item_type": "角色",
+      "rank_type": "5"
+    },
+    "1502": {
+      "name": "爻光",
+      "item_type": "角色",
+      "rank_type": "5"
+    },
     "8001": {
       "name": "{NICKNAME}",
       "item_type": "角色",
@@ -1284,6 +1324,16 @@
     },
     "20022": {
       "name": "溯憶",
+      "item_type": "光錐",
+      "rank_type": "3"
+    },
+    "20023": {
+      "name": "嗤笑",
+      "item_type": "光錐",
+      "rank_type": "3"
+    },
+    "20024": {
+      "name": "殘淚",
       "item_type": "光錐",
       "rank_type": "3"
     },
@@ -1592,6 +1642,16 @@
       "item_type": "光錐",
       "rank_type": "4"
     },
+    "21064": {
+      "name": "菇菇嘎嘎歷險記",
+      "item_type": "光錐",
+      "rank_type": "4"
+    },
+    "21065": {
+      "name": "今日好手氣",
+      "item_type": "光錐",
+      "rank_type": "4"
+    },
     "22000": {
       "name": "新手任務開始前",
       "item_type": "光錐",
@@ -1889,6 +1949,16 @@
     },
     "23052": {
       "name": "愛如此刻永恆",
+      "item_type": "光錐",
+      "rank_type": "5"
+    },
+    "23053": {
+      "name": "花花世界迷人眼",
+      "item_type": "光錐",
+      "rank_type": "5"
+    },
+    "23054": {
+      "name": "當她決定看見",
       "item_type": "光錐",
       "rank_type": "5"
     },
@@ -2302,6 +2372,16 @@
       "item_type": "角色",
       "rank_type": "5"
     },
+    "1501": {
+      "name": "火花",
+      "item_type": "角色",
+      "rank_type": "5"
+    },
+    "1502": {
+      "name": "爻光",
+      "item_type": "角色",
+      "rank_type": "5"
+    },
     "8001": {
       "name": "{NICKNAME}",
       "item_type": "角色",
@@ -2456,6 +2536,16 @@
     },
     "20022": {
       "name": "Reminiscence",
+      "item_type": "Light Cone",
+      "rank_type": "3"
+    },
+    "20023": {
+      "name": "Sneering",
+      "item_type": "Light Cone",
+      "rank_type": "3"
+    },
+    "20024": {
+      "name": "Lingering Tear",
       "item_type": "Light Cone",
       "rank_type": "3"
     },
@@ -2764,6 +2854,16 @@
       "item_type": "Light Cone",
       "rank_type": "4"
     },
+    "21064": {
+      "name": "Mushy Shroomy's Adventures",
+      "item_type": "Light Cone",
+      "rank_type": "4"
+    },
+    "21065": {
+      "name": "Today's Good Luck",
+      "item_type": "Light Cone",
+      "rank_type": "4"
+    },
     "22000": {
       "name": "Before the Tutorial Mission Starts",
       "item_type": "Light Cone",
@@ -3061,6 +3161,16 @@
     },
     "23052": {
       "name": "This Love, Forever",
+      "item_type": "Light Cone",
+      "rank_type": "5"
+    },
+    "23053": {
+      "name": "Dazzled by a Flowery World",
+      "item_type": "Light Cone",
+      "rank_type": "5"
+    },
+    "23054": {
+      "name": "When She Decided to See",
       "item_type": "Light Cone",
       "rank_type": "5"
     },
@@ -3474,6 +3584,16 @@
       "item_type": "Character",
       "rank_type": "5"
     },
+    "1501": {
+      "name": "Sparxie",
+      "item_type": "Character",
+      "rank_type": "5"
+    },
+    "1502": {
+      "name": "Yao Guang",
+      "item_type": "Character",
+      "rank_type": "5"
+    },
     "8001": {
       "name": "{NICKNAME}",
       "item_type": "Character",
@@ -3628,6 +3748,16 @@
     },
     "20022": {
       "name": "{RUBY_B#たど}辿{RUBY_E#}る{RUBY_B#きおく}記憶{RUBY_E#}",
+      "item_type": "光円錐",
+      "rank_type": "3"
+    },
+    "20023": {
+      "name": "{RUBY_B#ししょう}嗤笑{RUBY_E#}",
+      "item_type": "光円錐",
+      "rank_type": "3"
+    },
+    "20024": {
+      "name": "{RUBY_B#ざんるい}残涙{RUBY_E#}",
       "item_type": "光円錐",
       "rank_type": "3"
     },
@@ -3936,6 +4066,16 @@
       "item_type": "光円錐",
       "rank_type": "4"
     },
+    "21064": {
+      "name": "タケタケ{RUBY_B#ぼうけんき}冒険記{RUBY_E#}",
+      "item_type": "光円錐",
+      "rank_type": "4"
+    },
+    "21065": {
+      "name": "{RUBY_B#きょう}今日{RUBY_E#}は{RUBY_B#こううん}好運{RUBY_E#}",
+      "item_type": "光円錐",
+      "rank_type": "4"
+    },
     "22000": {
       "name": "{RUBY_B#はじ}初{RUBY_E#}めてのクエストの{RUBY_B#まえ}前{RUBY_E#}に",
       "item_type": "光円錐",
@@ -4233,6 +4373,16 @@
     },
     "23052": {
       "name": "{RUBY_B#あい}愛{RUBY_E#}はいま{RUBY_B#えいえん}永遠{RUBY_E#}に",
+      "item_type": "光円錐",
+      "rank_type": "5"
+    },
+    "23053": {
+      "name": "きらびやかな{RUBY_B#せかい}世界{RUBY_E#}",
+      "item_type": "光円錐",
+      "rank_type": "5"
+    },
+    "23054": {
+      "name": "{RUBY_B#かのじょ}彼女{RUBY_E#}が{RUBY_B#み}視{RUBY_E#}ると{RUBY_B#き}決{RUBY_E#}めた{RUBY_B#とき}時{RUBY_E#}",
       "item_type": "光円錐",
       "rank_type": "5"
     },
@@ -4646,6 +4796,16 @@
       "item_type": "キャラ",
       "rank_type": "5"
     },
+    "1501": {
+      "name": "{RUBY_B#ひばな}火花{RUBY_E#}",
+      "item_type": "キャラ",
+      "rank_type": "5"
+    },
+    "1502": {
+      "name": "{RUBY_B#コウコウ}爻光{RUBY_E#}",
+      "item_type": "キャラ",
+      "rank_type": "5"
+    },
     "8001": {
       "name": "{NICKNAME}",
       "item_type": "キャラ",
@@ -4800,6 +4960,16 @@
     },
     "20022": {
       "name": "추억 회상",
+      "item_type": "무기",
+      "rank_type": "3"
+    },
+    "20023": {
+      "name": "비웃음",
+      "item_type": "무기",
+      "rank_type": "3"
+    },
+    "20024": {
+      "name": "눈물의 흔적",
       "item_type": "무기",
       "rank_type": "3"
     },
@@ -5108,6 +5278,16 @@
       "item_type": "무기",
       "rank_type": "4"
     },
+    "21064": {
+      "name": "슈룸 모험기",
+      "item_type": "무기",
+      "rank_type": "4"
+    },
+    "21065": {
+      "name": "오늘의 행운",
+      "item_type": "무기",
+      "rank_type": "4"
+    },
     "22000": {
       "name": "초보자 임무 시작 전",
       "item_type": "무기",
@@ -5405,6 +5585,16 @@
     },
     "23052": {
       "name": "이 순간처럼 영원한 사랑",
+      "item_type": "무기",
+      "rank_type": "5"
+    },
+    "23053": {
+      "name": "눈부신 파키의 세상",
+      "item_type": "무기",
+      "rank_type": "5"
+    },
+    "23054": {
+      "name": "그녀가 보기로 결심했을 때",
       "item_type": "무기",
       "rank_type": "5"
     },
@@ -5818,6 +6008,16 @@
       "item_type": "캐릭터",
       "rank_type": "5"
     },
+    "1501": {
+      "name": "스파키",
+      "item_type": "캐릭터",
+      "rank_type": "5"
+    },
+    "1502": {
+      "name": "효광",
+      "item_type": "캐릭터",
+      "rank_type": "5"
+    },
     "8001": {
       "name": "{NICKNAME}",
       "item_type": "캐릭터",
@@ -5859,5 +6059,5 @@
       "rank_type": "5"
     }
   },
-  "version": "3.8"
+  "version": "4.0"
 }
