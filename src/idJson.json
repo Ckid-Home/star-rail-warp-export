@@ -765,6 +765,11 @@
       "item_type": "光锥",
       "rank_type": "5"
     },
+    "23055": {
+      "name": "献给明日的色彩",
+      "item_type": "光锥",
+      "rank_type": "5"
+    },
     "23056": {
       "name": "一场谎言的终幕",
       "item_type": "光锥",
@@ -1232,6 +1237,11 @@
     },
     "1502": {
       "name": "爻光",
+      "item_type": "角色",
+      "rank_type": "5"
+    },
+    "1503": {
+      "name": "真珠",
       "item_type": "角色",
       "rank_type": "5"
     },
@@ -2097,6 +2107,11 @@
       "item_type": "光錐",
       "rank_type": "5"
     },
+    "23055": {
+      "name": "獻給明日的色彩",
+      "item_type": "光錐",
+      "rank_type": "5"
+    },
     "23056": {
       "name": "一場謊言的終幕",
       "item_type": "光錐",
@@ -2564,6 +2579,11 @@
     },
     "1502": {
       "name": "爻光",
+      "item_type": "角色",
+      "rank_type": "5"
+    },
+    "1503": {
+      "name": "真珠",
       "item_type": "角色",
       "rank_type": "5"
     },
@@ -3429,6 +3449,11 @@
       "item_type": "Light Cone",
       "rank_type": "5"
     },
+    "23055": {
+      "name": "Colors for Tomorrow",
+      "item_type": "Light Cone",
+      "rank_type": "5"
+    },
     "23056": {
       "name": "The Finale of a Lie",
       "item_type": "Light Cone",
@@ -3896,6 +3921,11 @@
     },
     "1502": {
       "name": "Yao Guang",
+      "item_type": "Character",
+      "rank_type": "5"
+    },
+    "1503": {
+      "name": "Pearl",
       "item_type": "Character",
       "rank_type": "5"
     },
@@ -4761,6 +4791,11 @@
       "item_type": "光円錐",
       "rank_type": "5"
     },
+    "23055": {
+      "name": "{RUBY_B#あす}明日{RUBY_E#}に{RUBY_B#ささ}捧{RUBY_E#}げる{RUBY_B#いろ}色{RUBY_E#}",
+      "item_type": "光円錐",
+      "rank_type": "5"
+    },
     "23056": {
       "name": "{RUBY_B#あ}或{RUBY_E#}る{RUBY_B#うそ}嘘{RUBY_E#}の{RUBY_B#しゅうまく}終幕{RUBY_E#}",
       "item_type": "光円錐",
@@ -5228,6 +5263,11 @@
     },
     "1502": {
       "name": "{RUBY_B#コウコウ}爻光{RUBY_E#}",
+      "item_type": "キャラ",
+      "rank_type": "5"
+    },
+    "1503": {
+      "name": "パール",
       "item_type": "キャラ",
       "rank_type": "5"
     },
@@ -6093,6 +6133,11 @@
       "item_type": "무기",
       "rank_type": "5"
     },
+    "23055": {
+      "name": "내일에 바치는 색채",
+      "item_type": "무기",
+      "rank_type": "5"
+    },
     "23056": {
       "name": "거짓말의 종막",
       "item_type": "무기",
@@ -6563,6 +6608,11 @@
       "item_type": "캐릭터",
       "rank_type": "5"
     },
+    "1503": {
+      "name": "펄",
+      "item_type": "캐릭터",
+      "rank_type": "5"
+    },
     "1504": {
       "name": "애쉬베일",
       "item_type": "캐릭터",
@@ -6659,5 +6709,5 @@
       "rank_type": "5"
     }
   },
-  "version": "4.5"
+  "version": "4.6"
 }
